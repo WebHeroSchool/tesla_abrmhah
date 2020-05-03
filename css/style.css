@@ -1,0 +1,88 @@
+.header {
+   font: 15px 'Montserrat-SemiBold';
+}
+
+.information__title{
+	font: 90px 'Montserrat-SemiBold';
+}
+
+.information__subtitle{
+    font: 15px 'Montserrat-Medium';
+}
+
+.argument__number{
+    font: 35px 'Montserrat-SemiBold';
+}
+
+.argument__measure {
+    font: 20px 'Montserrat-SemiBold'; 
+}
+.argument__text {
+	font: 12px 'Montserrat-Regular';
+}
+.argument__test {
+	font: 13px 'Montserrat-Bold';
+}
+
+.argument__button {
+    font: 13px 'Montserrat-Bold';
+}
+.description__title {
+	font: 70px 'Montserrat-SemiBold';
+}
+
+.description__subtitle {
+	font: 30px 'Montserrat-SemiBold';
+}
+
+.description__describe {
+	font: 15px 'Montserrat-Medium';
+}
+
+.option__text {
+	font: 13px 'Montserrat-Bold';
+}
+
+.option__btn {
+    font: 13px 'Montserrat-Bold';
+}
+
+.safe__title {
+	font: 30px 'Montserrat-SemiBold';
+}
+
+.safe__describe {
+    font: 15px 'Montserrat-Medium';
+}
+
+.safe__rating {
+    font: 30px 'Montserrat-SemiBold';
+}
+
+.safe__boxs {
+	font: 17px 'Montserrat-Bold';
+}
+
+.safe__box_text {
+	font: 17px 'Montserrat-Bold';
+}
+
+.safe__box_mini {
+	font: 10px 'Montserrat-Bold';
+}
+
+.safe__safety {
+	font: 50px 'Montserrat-SemiBold';
+}
+
+.safe__safety__text {
+	font: 25px 'Montserrat-SemiBold';
+}
+
+.footer__whstext {
+	font: 8px 'Montserrat-Bold';
+}
+
+.safe-pic__title {
+	font: 200px 'Montserrat-SemiBold';
+} 
